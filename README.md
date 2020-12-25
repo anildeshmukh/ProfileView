@@ -14,7 +14,7 @@ npm install yarn
 
 By default kept the port as 9091 to to run the project 
 
-#### Aandroid
+#### Android
 react-native run-android --port 9091
 
 or
